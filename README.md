@@ -1,4 +1,4 @@
-# Ex 1 Giovana 
-# Ex 2 Julia
-# Ex 3 Maria Eduarda
-# Ex 4 Nicolle
+# Ex 1 Giovana 565681
+# Ex 2 Julia 563623
+# Ex 3 Maria Eduarda 565383
+# Ex 4 Nicolle 564381
